@@ -57,4 +57,5 @@ python main.py
 
 ## Author
 
-Akshay
+Demo Account Holder: Akshay
+Author: Ashutosh Rana
